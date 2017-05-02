@@ -6,8 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
-
 public class Series 
 {
 
@@ -20,7 +18,6 @@ public class Series
 	 * A map containing all loaded genres for simplification etc later
 	 */
 	public static Map<String, Integer> genreMap = new HashMap<String, Integer>();
-	
 	
 	/////////////////////////////////////////////////////////
 	//////////////////////// SERIES /////////////////////////
